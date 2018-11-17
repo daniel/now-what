@@ -1,0 +1,26 @@
+html {
+  background: #eee;
+  padding: 20px;
+}
+
+.game {
+  display: flex;
+}
+
+.tv {
+  background: lightblue;
+  border: 1px solid black;
+  width: 75%;
+  height: 85vh;
+  margin-right: 40px;
+  padding: 20px;
+}
+
+.phone {
+  background: white;
+  width: 25%;
+  height: 600px;
+  height: 70vh;
+  border: 1px solid black;
+  padding: 20px;
+}
