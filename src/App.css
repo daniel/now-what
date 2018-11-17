@@ -24,3 +24,26 @@ html {
   border: 1px solid black;
   padding: 20px;
 }
+
+.question {
+
+}
+
+.question__prompt {
+
+}
+
+.question__options {
+  list-style: none;
+  padding: 0;
+}
+
+.question__option-item {
+  margin-bottom: 10px;
+}
+
+.question__option-button {
+  border: 0;
+  background: #ddd;  
+  padding: 20px;
+}
